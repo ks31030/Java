@@ -9,7 +9,7 @@ public class CastingPractice1 {
 	    char name1, name2;
 		
 		System.out.print("문자 : ");
-		name1 = sc.next().charAt(0);//구글링했습니다.
+		name1 = sc.next().charAt(0);//안 배운 부분입니다. 구글링했습니다.
 		System.out.print(name1 + " unicode : ");
 		int iname1 = name1;
 		System.out.println(iname1);

@@ -22,6 +22,8 @@ public class CastingPractice2 {
 		int iall2 = iall/3;
 		System.out.println("총점 : " + iall);
 		System.out.print("평균 : " + iall2);
+		
+		//돌아가긴 돌아 갑니다만, 도대체 총점과 평균을 정수형으로 어떻게 처리해야 할까요. 강사님?
 	}
 
 }
