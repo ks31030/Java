@@ -1,0 +1,18 @@
+package com.kh.practice2.func;
+
+import java.util.Scanner;
+
+public class CastingPractice1 {
+
+	public static void main(String[] args) {
+		Scanner sc = new scanner(System.in);
+		char cname;
+		int iname = cname;
+		System.out.print("문자 : ");
+		cname = sc.next();
+		System.out.print("문자 : ");
+		cname = sc.next();
+		
+	}
+
+}
