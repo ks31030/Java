@@ -34,8 +34,7 @@ public class CastingPractice3 {
 		int nt = ch;
 		System.out.println(nt);
 		System.out.println(nt + iNum1);
-		char chr = (char)(nt + iNum1);
-		System.out.println(chr);
+		System.out.println();
 		
 	}
 

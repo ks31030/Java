@@ -30,12 +30,10 @@ public class CastingPractice3 {
 		double dNum1 = fNum;
 		System.out.println(iNum1/dNum1);
 		
-		System.out.println("'" + ch + "'");
-		int nt = ch;
-		System.out.println(nt);
-		System.out.println(nt + iNum1);
-		char chr = (char)(nt + iNum1);
-		System.out.println(chr);
+		System.out.println("'ch'");
+		System.out.println();
+		System.out.println();
+		System.out.println();
 		
 	}
 

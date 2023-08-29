@@ -20,22 +20,18 @@ public class CastingPractice3 {
 		System.out.println(fNum1);
 		
 		System.out.println(fNum1/iNum2);
-		System.out.println(dNum);
+		System.out.println();
 		
-		int iNum4 = (int) fNum;
-		System.out.println(iNum4);
-		System.out.println(iNum1/iNum4);
+		System.out.println();
+		System.out.println();
 		
-		System.out.println(iNum1/fNum);
-		double dNum1 = fNum;
-		System.out.println(iNum1/dNum1);
+		System.out.println();
+		System.out.println();
 		
-		System.out.println("'" + ch + "'");
-		int nt = ch;
-		System.out.println(nt);
-		System.out.println(nt + iNum1);
-		char chr = (char)(nt + iNum1);
-		System.out.println(chr);
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 		
 	}
 

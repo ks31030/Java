@@ -1,0 +1,38 @@
+package com.kh.practice2.func;
+
+public class CastingPractice3 {
+
+	public static void main(String[] args) {
+		int iNum1 = 10;
+		int iNum2 = 4;
+		
+		float fNum = 3.0f;
+		double dNum = 2.5;
+		
+		char ch = 'A';
+		
+		System.out.println(iNum1/iNum2);
+		int iNum3 = (int) dNum;
+		System.out.println(iNum3);
+		
+		System.out.println(iNum2*dNum);
+		float fNum1 = iNum1;
+		System.out.println(fNum1);
+		
+		System.out.println();
+		System.out.println();
+		
+		System.out.println();
+		System.out.println();
+		
+		System.out.println();
+		System.out.println();
+		
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		
+	}
+
+}
