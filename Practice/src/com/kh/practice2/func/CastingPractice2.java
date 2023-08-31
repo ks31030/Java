@@ -6,6 +6,7 @@ public class CastingPractice2 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		
 		double grd1, grd2, grd3;
 		
 		System.out.print("±¹¾î : ");
@@ -20,6 +21,7 @@ public class CastingPractice2 {
 		double dall = (grd1 + grd2 + grd3);
 		int iall = (int) dall;
 		int iall2 = iall/3;
+		
 		System.out.println("ÃÑÁ¡ : " + iall);
 		System.out.print("Æò±Õ : " + iall2);
 	}

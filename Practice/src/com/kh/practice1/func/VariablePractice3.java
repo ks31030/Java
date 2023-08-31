@@ -6,8 +6,10 @@ public class VariablePractice3 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		double width, height;
+		
 		System.out.print("가로 : ");
 		width = sc.nextDouble();
+		
 		System.out.print("세로 : ");
 		height = sc.nextDouble();
 		

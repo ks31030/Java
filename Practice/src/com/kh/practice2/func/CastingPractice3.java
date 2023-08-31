@@ -30,7 +30,7 @@ public class CastingPractice3 {
 		double dNum1 = fNum;
 		System.out.println(iNum1/dNum1);
 		
-		System.out.println("'" + ch + "'");
+		System.out.println(ch);
 		int nt = ch;
 		System.out.println(nt);
 		System.out.println(nt + iNum1);
@@ -40,3 +40,5 @@ public class CastingPractice3 {
 	}
 
 }
+//구태여 형변환, 추가적인 선언할 것 없이 변수 앞에 변경하고자 하는 자료형 추가하면 됨.
+// ex) (double)iNum1 = 10.0;

@@ -1,8 +1,8 @@
-package com.kh.practice1;
+package com.kh.practice3.func;
 
 import java.util.Scanner;
 
-public class IfPractice4 {
+public class Practice4 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

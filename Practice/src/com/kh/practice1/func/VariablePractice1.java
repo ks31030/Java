@@ -7,6 +7,7 @@ public class VariablePractice1 {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
+		
 		String name, gender;
 		int age;
 		double height;
@@ -20,7 +21,7 @@ public class VariablePractice1 {
 		System.out.print("키를 입력하세요(cm) ");
 		height = sc.nextDouble();
 		
-		System.out.println("키 " + height + "cm인 " + gender + "자 " + name + " 님 반갑습니다.^^");
+		System.out.println("키 " + height + "cm인 " + age + "살 " + gender + "자 " + name + " 님 반갑습니다.^^");
 		
 	}
 
