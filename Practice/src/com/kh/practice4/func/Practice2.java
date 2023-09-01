@@ -1,8 +1,8 @@
-package com.kh.practice.exam;
+package com.kh.practice4.func;
 
 import java.util.Scanner;
 
-public class Practice7 {
+public class Practice2 {
 
 	public static void main(String[] args) {
 		/*
@@ -14,14 +14,18 @@ public class Practice7 {
 		System.out.println("숫자를 입력하세요 : ");
 		int num = sc.nextInt();
 		// 1.조건 값 만들기 boolean 변수 = true or false;
-		while(조건) { // 2. 조건 추가하기
-		if(num<1) {
+		boolean isTrue = true;
+		while(isTrue) { // 2. 조건 만들기
+		if(num<1) {//1 이상인 숫자만 들어온다.
 			System.out.println("1 이상의 숫자를 입력해주세요.");
+			break;
 		} else {
 			for (int i=1; i<=num; i++) {
 				System.out.println(i);
 			}
 			// 3. 조건 false 만들기
+			isTrue = false;
+			break; //if문이나 switch문에서 사용할 수 있다.
 		}
 	  }
 	}		

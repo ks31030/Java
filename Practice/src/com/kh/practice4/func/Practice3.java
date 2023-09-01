@@ -1,8 +1,8 @@
-package com.kh.practice.exam;
+package com.kh.practice4.func;
 
 import java.util.Scanner;
 
-public class Practice8 {
+public class Practice3 {
 
 	public static void main(String[] args) {
 		/*
@@ -17,9 +17,10 @@ public class Practice8 {
 			if(num<1) {
 				System.out.println("1 이상의 숫자를 입력해주세요.");
 			} else {
-				for ( ; ; ) { //for문 안에 완성하기
-					System.out.println("");
+				for (int i=num; i>=1; i--) { //for문 안에 완성하기
+					System.out.println(i);
 				}
+	
 			}
 		}
 	}
