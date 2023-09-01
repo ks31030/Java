@@ -1,5 +1,5 @@
 package com.kh.variable;
-
+ 
 public class Variable {
 	public static void main(String[] args) {
 		// 1. 변수의 이름은 영문자, 숫자, 언더스코어, 달러($)로 구성할 수 있다.
