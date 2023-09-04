@@ -1,7 +1,7 @@
 package com.kh.ifsample;
  
 public class IfElseSample {
-
+   
 	public static void main(String[] args) {
 		// if-else
 		/*

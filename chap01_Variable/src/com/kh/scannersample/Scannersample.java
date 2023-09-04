@@ -1,6 +1,6 @@
 package com.kh.scannersample;
 import java.util.Scanner;
-
+ 
 public class Scannersample {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -1,7 +1,7 @@
 package com.kh.practice2.func;
 
 import java.util.*;
-
+  
 public class CastingPractice2 {
 
 	public static void main(String[] args) {
