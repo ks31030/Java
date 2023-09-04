@@ -1,5 +1,5 @@
 package com.kh.whilesample;
-
+  
 public class While03 {
 
 	public static void main(String[] args) {
