@@ -1,7 +1,7 @@
 package com.kh.arraysample;
 
 import java.util.Scanner;
-
+  
 public class Array03 {
 	public static void main(String[] args) {
 		/*

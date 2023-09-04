@@ -1,5 +1,5 @@
 package com.kh.arraysample;
-
+  
 public class Array04 {
 
 	public static void main(String[] args) {
