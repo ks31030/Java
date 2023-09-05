@@ -21,6 +21,7 @@ public class Student {
 	
 	//2. 생성자
 	public Student(int grade, int classroom, String name, double height, char gender) {
+		//초기화 블록을 이용해 각 필드 초기화 초기화블록{}
 		{
 		 grade = 1;
 		 classroom = 2;
