@@ -1,5 +1,5 @@
 package com.kh.example.practice1.model.vo;
-
+  
 public class Member {
 	/*
 1. ¸â¹öº¯¼ö
