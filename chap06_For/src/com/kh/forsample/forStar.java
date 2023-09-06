@@ -1,7 +1,7 @@
 package com.kh.forsample;
 
 import java.util.Scanner;
-
+  
 public class forStar {
 /*
 다음과 같은 실행 예제를 구현하세요.
