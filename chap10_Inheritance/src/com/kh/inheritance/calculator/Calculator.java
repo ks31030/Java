@@ -1,5 +1,5 @@
 package com.kh.inheritance.calculator;
-
+   
 public class Calculator {
 	//계산기
 	//더하기 빼기 곱하기 나누기 나머지
