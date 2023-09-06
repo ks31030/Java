@@ -7,12 +7,41 @@ package com.kh.example.practice4.model.vo;
 - gender : char
 + Student()
 + information() : void
- 
  */
 public class Student {
 	
 	//1. 멤버 변수
 	
+	public int getGrade() {
+		return grade;
+	}
+	public int getClassroom() {
+		return classroom;
+	}	
+	public String getName() {
+		return name;
+	}	
+	public void setGrade(int grade) {
+		this.grade = grade;
+	}
+	public void setClassroom(int classroom) {
+		this.classroom = classroom;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public double getHeight() {
+		return height;
+	}
+	public void setHeight(double height) {
+		this.height = height;
+	}
+	public char getGender() {
+		return gender;
+	}
+	public void setGender(char gender) {
+		this.gender = gender;
+	}
 	int grade;
 	int classroom;
 	String name;
@@ -32,11 +61,7 @@ public class Student {
 	}
 	//3. 출력 메서드 + information() : void
 	public void information() {
-		 System.out.println("학년 : " + grade);
-		 System.out.println("반 : " + classroom);
-		 System.out.println("이름 : " + name);
-		 System.out.println("키 : " + height);
-		 System.out.println("성별 : " + gender);
+		 System.out.println(grade + "학년 " + classroom + "반 " + name + " " + height + "cm인 " + gender + "자입니다.");
 	}
 
 }

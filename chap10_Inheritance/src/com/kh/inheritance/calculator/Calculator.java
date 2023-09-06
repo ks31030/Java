@@ -10,7 +10,7 @@ public class Calculator {
 	//2. »©±â
 	public int substruct(int num1, int num2) {
 		return num1 - num2;
-	}
+	} 
 	//3. °öÇÏ±â
 	public int multiply(int num1, int num2) {
 		return num1 * num2;
@@ -20,7 +20,7 @@ public class Calculator {
 		return num1 / num2;
 	}
 	
-	public int rest(int num1, int num2) {
+	public int mod(int num1, int num2) {
 		return num1 % num2;
 	}
 }

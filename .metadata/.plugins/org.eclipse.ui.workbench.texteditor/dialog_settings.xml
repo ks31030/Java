@@ -6,11 +6,13 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="choice"/>
+		<item key="selection" value="GoodPlayer"/>
 		<list key="findhistory">
+			<item value="PlayerCharacter"/>
 			<item value="menu"/>
 		</list>
 		<list key="replacehistory">
+			<item value="GoodPlayer"/>
 			<item value="choice"/>
 		</list>
 	</section>

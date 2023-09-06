@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.kh.gettersetter.PlayerChracter"/>
+    <fullyQualifiedTypeName name="com.kh.example.practice1.model.vo.Member"/>
 </qualifiedTypeNameHistroy>
