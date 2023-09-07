@@ -11,7 +11,7 @@ public class CalculatorRun extends Calculator{
 		System.out.println("★★★숫자 2개 입력하여 사칙연산 값 구하기★★★");
 		System.out.println();
 		
-		int num1, num2;
+		int num1, num2; //객체변수아님!
 		 
 		System.out.print("첫번째 숫자 : ");
 		num1 = sc.nextInt();
