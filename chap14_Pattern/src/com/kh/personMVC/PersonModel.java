@@ -10,7 +10,6 @@ public class PersonModel {
 	
 	public void setHobby(String hobby) {
 		this.hobby = hobby;
-			
 		
 	}
 }
