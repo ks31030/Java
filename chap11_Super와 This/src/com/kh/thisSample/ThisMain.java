@@ -31,8 +31,8 @@ public class ThisMain {
 			System.out.println("myField의 값 : " + this.myField);
 		}
 	}
-	public class ThisMain {
-		public static void main(String[] args) {
+	public class thisMain {
+		public void main(String[] args) {
 			MyClass obj1 = new MyClass();//첫번째 생성자 호출
 			MyClass obj2 = new MyClass(10);//두번째 생성자 호출
 			
