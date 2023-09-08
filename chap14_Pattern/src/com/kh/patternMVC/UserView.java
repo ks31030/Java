@@ -1,4 +1,4 @@
-package com.kh.pattern.mvc.View;
+package com.kh.patternMVC;
 // 정보를 화면에 출력
 public class UserView {
 	

@@ -1,4 +1,4 @@
-package com.kh.pattern.mvc.Model;
+package com.kh.patternMVC;
 /*
 1. 학생 정보 표현
 private 이름 나이

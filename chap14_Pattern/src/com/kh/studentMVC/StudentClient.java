@@ -1,4 +1,4 @@
-package com.kh.pattern.mvc;
+package com.kh.studentMVC;
 
 public class StudentClient {
 	//학생정보 다루는 곳

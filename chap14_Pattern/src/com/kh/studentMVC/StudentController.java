@@ -1,4 +1,4 @@
-package com.kh.pattern.mvc;
+package com.kh.studentMVC;
 
 public class StudentController {
 	private StudentModel studentModel;
@@ -6,6 +6,7 @@ public class StudentController {
 	
 	public StudentController(StudentModel model, StudentView view) {
 		this.studentModel = studentModel;
+		this.studentView = studentView;
 	}
 
 	public void updateView() {

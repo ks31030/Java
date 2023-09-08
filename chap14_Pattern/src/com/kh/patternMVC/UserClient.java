@@ -1,9 +1,4 @@
-package com.kh.pattern.mvc;
-
-import com.kh.pattern.mvc.Model.UserModel;
-import com.kh.pattern.mvc.View.UserView;
-import com.kh.pattern.mvc.Controller.UserController;
-
+package com.kh.patternMVC;
 
 public class UserClient {
 
