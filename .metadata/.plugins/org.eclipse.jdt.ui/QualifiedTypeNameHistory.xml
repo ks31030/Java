@@ -6,4 +6,8 @@
     <fullyQualifiedTypeName name="com.kh.example.practice1.model.vo.Member"/>
     <fullyQualifiedTypeName name="com.kh.pattern.mvc.Model.UserModel"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
 </qualifiedTypeNameHistroy>
