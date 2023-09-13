@@ -1,4 +1,4 @@
-package com.kh.PracticeMain;
+package com.kh.objExam;
 
 import java.util.Scanner;
 
