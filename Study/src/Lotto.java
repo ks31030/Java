@@ -13,7 +13,7 @@ public class Lotto {
 	public void RanEX() {
 	/*
 	 난수 : 예측할 수 없는 값들로 이루어진 수의 나열
-	 * */
+	 */
 			Random rd = new Random(); //Random 객체 생성
 			
 			//1. 정수 범위 내에서 난수를 만들겠다.
@@ -63,21 +63,20 @@ public class Lotto {
 
 
 /*
- * 
- * 		//1. Array
+  		//1. Array
 			//int[] lottoNum = new int[six];
 		
- */
-for(int i =0 ; i < six ; i++) {
+		
+		for(int i =0 ; i < six ; i++) {
 			int isSame;
 			if(만약에 번호가 같다면) {
 				
-			}else {
+			} else {
 				출력하겠다.
 			}
 			
 		}
- * */
+ */
 
 
 
