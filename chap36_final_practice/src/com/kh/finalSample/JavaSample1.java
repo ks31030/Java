@@ -20,4 +20,4 @@ public class JavaSample1 {
 		}
 		System.out.println("program finish");
 	}
-}
+} 
