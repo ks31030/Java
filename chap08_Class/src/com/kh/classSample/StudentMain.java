@@ -3,7 +3,7 @@ package com.kh.classSample;
 public class StudentMain {
 
 	public static void main(String[] args) {
-		// 학생의 객체 생성
+		// 학생의 인스턴트 생성
 		Student student1 = new Student("김석", 20, "1학년");
 		// 학생 정보 출력
 		student1.displayInfo();
