@@ -3,7 +3,7 @@ package com.kh.ifsample;
 public class IfElseIfSample {
 
 	public static void main(String[] args) {
-		// if-esle if-else
+		// if-else if-else
 		/*
 		 여러 개의 조건을 연속적으로 평가.
 		 그 중 첫번째 참인 조건에 해당하는 코드 블록을 실행하는 구조.
@@ -16,7 +16,7 @@ public class IfElseIfSample {
 		  } else {
 		  //위의 모든 조건이 거짓일 때 실행되는 코드
 		  }
-		 * */
+		 */
 		//만약 20살 해외여행
 		//미성년 집
 		//30살 세계여행
